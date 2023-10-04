@@ -4,12 +4,9 @@ Interested in the field of machine learning and deep learning, specifically in g
 
 Posses strong mathematical background and years of industry experience. Have knowledge and understanding from broad area of machine learning: reinforcement learning, generative models, probabilistic graphical model, deep learning etc.  Worked in various domains including computer vision, recommendation systems, data systems and communication systems.
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the effective and efficient recovery of channel information with the use of machine learning and optimization along with their theoretical analysis.
 - 👯 I’m looking to collaborate on solving problems involving generative models and representation learning.
+- Hobbies: Working out 🏋️, Hiking⛰️, biking 🚵.
 
 ### Contact:
 [<img align="left" alt="rajeshshrestha | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2880px-Gmail_icon_%282020%29.svg.png" />][gmail]
