@@ -19,10 +19,12 @@ Here are some ideas to get you started:
   
 [linkedin]: https://www.linkedin.com/in/rajesh-shrestha-434999152/
 [gmail]: rajesh.45npt@gmail.com
+<br/>
 
 <a href="https://github.com/rajeshshrestha/rajeshshrestha/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshshrestha&hide=java,html&title_color=000000&text_color=000000" />
 </a>
+
 
 <a href="https://github.com/rajeshshrestha/rajeshshrestha/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshshrestha&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="SAN GitHub Stats" />
