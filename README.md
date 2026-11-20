@@ -10,6 +10,8 @@ Before my Ph.D., I spent approximately three years as a Machine Learning Enginee
 
 ## Research
 
+My interests span generative AI, diffusion and flow models, multimodal and representation learning, computer vision, numerical optimization, scalable machine learning, and inverse problems.
+
 - **Generative modeling and inverse problems:** diffusion and score-based priors, inference-time conditioning, and convergent plug-and-play optimization.
 - **Diffusion and flow synchronization:** coupled training and sampling for correlated generations with shared structure.
 - **Signal reconstruction:** recovery from compressed and quantized measurements, wireless channel estimation, radio maps, and spectral imaging.
@@ -22,6 +24,13 @@ Before my Ph.D., I spent approximately three years as a Machine Learning Enginee
 - **Off-Grid Spectrum Cartography via Deep Generative Models** — IEEE SAM Workshop 2026. [Paper](https://doi.org/10.1109/SAM68950.2026.11687935)
 - **Downlink MIMO Channel Estimation from Bits: Recoverability and Algorithm** — IEEE Transactions on Signal Processing, 2025. [Paper](https://doi.org/10.1109/TSP.2025.3593414) · [Code](https://github.com/rajeshshrestha/MIMO-estimation-from-bits)
 - **Exploratory Training: When Annotators Learn About Data** — Proceedings of the ACM on Management of Data, 2023. [Paper](https://doi.org/10.1145/3589280) · [Simulation](https://github.com/rajeshshrestha/exploratory-training-simulation)
+- **Exploratory Training: When Trainers Learn** — ACM Workshop on Human-In-the-Loop Data Analytics (HILDA), 2022. [Paper](https://doi.org/10.1145/3546930.3547500)
+
+## Selected projects
+
+- **Temporal Action Segmentation with Vision Transformers:** fine-tuned VideoViT using adapters and token merging.
+- **Camera Model Identification for Digital Image Authentication:** image-processing and deep-learning ensemble methods for blind source camera identification.
+- **ABU Robocon (2014–2018):** developed robot kinematics, control algorithms, and control circuits with the Robotics Club at Pulchowk Campus, representing Nepal internationally.
 
 ## Research code
 
